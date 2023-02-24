@@ -1,7 +1,7 @@
 import numpy as np
 # Binning all the data based on position:
 import numpy as np
-# Boundaries of bins
+# Boundaries of bins:
 xmin, xmax = 0, 100
 ymin, ymax = 0, 100
 xbins, ybins = 10, 10
